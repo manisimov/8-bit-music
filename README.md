@@ -7,6 +7,7 @@ Plan:
   4) ? Communcation (USB, Ethernet, UART...)
 
 
+
 Secondary:
   Static analyzer (lint)
   Misra C
